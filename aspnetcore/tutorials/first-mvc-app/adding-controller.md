@@ -33,7 +33,7 @@ We cover these concepts in this tutorial series and show you how to use them to 
 * In **Solution Explorer**, right-click **Controllers > Add > Controller**
   ![Contextual menu](adding-controller/_static/add_controller.png)
 
-* In the **Add Scaffold** dialog box, select **MVC Controller - Empty**
+* In the **Add Scaffold** dialog box, select **Controller Class - Empty**
 
   ![Add MVC controller and name it](adding-controller/_static/ac.png)
 
@@ -147,7 +147,9 @@ We cover these concepts in this tutorial series and show you how to use them to 
 * In **Solution Explorer**, right-click **Controllers > Add > Controller**
   ![Contextual menu](adding-controller/_static/add_controller.png)
 
-* In the **Add Scaffold** dialog box, select **MVC Controller - Empty**
+* In the **Add Scaffold** dialog box, select **
+
+- Empty**
 
   ![Add MVC controller and name it](adding-controller/_static/ac.png)
 
